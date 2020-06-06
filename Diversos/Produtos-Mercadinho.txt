@@ -1,0 +1,107 @@
+Produtos do Mercadinho Do BPP
+
+#Alimentos#
+
+1 - arroz;
+2 - feijão;
+3 - macarrão;
+4 - óleo;
+5 - azeite;
+6 - tempero pronto;
+7 - maionese;
+8 - extrato de tomate;
+9 - enlatados (atum, sardinha, milho, ervilha etc.);
+10 - farinhas e farofas;
+11 - café;
+12 - chá;
+13 - leite.
+
+#Alimentos Congelados#
+
+1 - frango;
+2 - lasanha;
+3 - pizza;
+4 - salsicha e salsichão;
+5 - petiscos;
+6 - produtos para churrasco;
+7 - hambúrguer;
+8 - linguiça;
+9 - pão de queijo;
+10 - batata palito;
+11 - pratos prontos.
+
+#Frios#
+
+1 - manteiga;
+2 - margarina;
+3 - requeijão;
+4 - leite fermentado;
+5 - queijo;
+
+
+#Hortifruti#
+
+1 - frutas (banana, melancia, abacaxi, manga, maçã);
+2 - legumes (batata, cenoura, pimentão, beterraba);
+3 - verduras (couve, alface, couve-flor, repolho);
+4 - temperos (alho, cebola, cebolinha, salsa, coentro e ervas no geral);
+5 - polpas de frutas congeladas;
+
+#Padaria#
+
+1 - pão de forma;
+2 - pão de cachorro quente;
+3 - pão de hambúrguer;
+4 - bisnaguinha;
+5 - biscoitos;
+6 - massa pronta para bolo;
+7 - broinha de milho;
+8 - pães de queijo.
+
+#Bebidas#
+
+1 - água;
+2 - chás prontos;
+3 - iogurtes;
+4 - suco;
+5 - refrigerante;
+6 - vitamina;
+7 - achocolatado;
+8 - cerveja;
+9 - vinho;
+10 - vodca.
+
+#Produtos de Limpeza#
+
+1 - água sanitária;
+2 - desinfetante;
+3 - detergente;
+4 - esponja de aço;
+5 - sabão em pó;
+6 - sabão em barra;
+7 - amaciante;
+8 - alvejante;
+9 - escovinhas;
+10 - vassoura;
+11 - rodo;
+12 - pá;
+13 - pano de chão;
+14 - pano de prato;
+15 - luvas de borracha.
+
+#Higiene Pessoal#
+
+1 - shampoo;
+2 - condicionador;
+3 - creme de pentear;
+4 - escova de cabelo;
+5 - pente;
+6 - desodorante;
+7 - lâmina de barbear;
+9 - creme dental;
+10 - escova de dentes;
+11 - enxaguante bucal;
+12 - creme hidratante para o corpo;
+13 - sabonete;
+14 - papel higiênico;
+15  -absorvente.
