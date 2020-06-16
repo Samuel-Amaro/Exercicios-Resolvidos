@@ -8,3 +8,6 @@
  * Linguagem de Programação C.
  * Lógica de Programação.
  * Algoritmos.
+#### Onde encontrar os Contextos e Descrições de Cada Exercicio Implementado :point_down:
+[URI-JUDGE](https://www.urionlinejudge.com.br/)
+* Os exercicios diversos alguns possui descrições e contextualização do problema no proprio codigo fonte
